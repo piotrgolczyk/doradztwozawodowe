@@ -259,7 +259,7 @@
                         },
                         {
                             "type": "paragraph",
-                            "text": "W Krakowie jednolite studia magisterskie z fizjoterapii prowadzą UJ Collegium Medicum oraz AWF Kraków. Każdy program trwa 5 lat (10 semestrów) i obejmuje obowiązkowe praktyki kliniczne oraz środowiskowe, co daje solidną bazę do pracy z pacjentami sportowymi."
+                            "text": "W Krakowie jednolite studia magisterskie z fizjoterapii prowadzą UJ Collegium Medicum oraz AWF Kraków. Każdy program trwa 5 lat (10 semestrów) i obejmuje obowiązkowe praktyki kliniczne oraz środowiskowe, co daje solidną bazę do pracy z pacjentami sportowymi (sylabus.cm-uj.krakow.pl, irk.awf.krakow.pl)."
                         },
                         {
                             "type": "paragraph",
@@ -344,7 +344,7 @@
                         },
                         {
                             "type": "paragraph",
-                            "text": "Polska nie jest jeszcze pełnoprawnym członkiem IFOMPT, dlatego lokalne kursy OMT często bazują na standardach federacji, ale nie nadają tytułu IFOMPT. Jeśli potrzebujesz oficjalnej akredytacji, wybierz programy zagraniczne (np. Maitland/IMTA w Niemczech, Austrii lub Wielkiej Brytanii czy Kaltenborn-Evjenth w Norwegii) albo hybrydowe szkolenia prowadzone w Polsce przez ośrodki z zagraniczną afiliacją."
+                            "text": "Polska nie jest jeszcze pełnoprawnym członkiem IFOMPT, dlatego lokalne kursy OMT często bazują na standardach federacji, ale nie nadają tytułu IFOMPT. Jeśli potrzebujesz oficjalnej akredytacji, wybierz programy zagraniczne (np. Maitland/IMTA w Niemczech, Austrii lub Wielkiej Brytanii czy Kaltenborn-Evjenth w Norwegii) albo hybrydowe szkolenia prowadzone w Polsce przez ośrodki z zagraniczną afiliacją; aktualną listę organizacji znajdziesz na ifompt.org oraz w materiałach partnerskich, np. physioaustria.at."
                         }
                     ]
                 },
@@ -393,9 +393,9 @@
                             "type": "list",
                             "style": "unordered",
                             "items": [
-                                "MedPower – „USG narządu ruchu” (Moduł 1, Kraków): 37 godzin dydaktycznych w 3 dni, cena ok. 3300 zł, praca w grupach 1:2 na aparacie USG.",
-                                "USGTrener – moduły MSK dostępne także w Krakowie: około 24 godziny nauki w trakcie 3 dni, koszt w okolicach 3290 zł za moduł.",
-                                "Roztoczańska Szkoła USG – blok MSK (3 dni) kosztuje ok. 4500 zł; choć kurs odbywa się w różnych miastach, jest popularny wśród krakowskich fizjoterapeutów."
+                                "MedPower – \"USG narządu ruchu\" (Moduł 1, Kraków): 37 godzin dydaktycznych w 3 dni, cena ok. 3300 zł, praca w grupach 1:2 na aparacie USG (medpower.pl).",
+                                "USGTrener – moduły MSK dostępne także w Krakowie: około 24 godziny nauki w trakcie 3 dni, koszt w okolicach 3290 zł za moduł (usgtrener.pl).",
+                                "Roztoczańska Szkoła USG – blok MSK (3 dni) kosztuje ok. 4500 zł; choć kurs odbywa się w różnych miastach, jest popularny wśród krakowskich fizjoterapeutów (cdn.uksca.org.uk)."
                             ]
                         }
                     ]
@@ -407,7 +407,7 @@
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "IFSPT (International Federation of Sports Physical Therapy) to Międzynarodowa Federacja Fizjoterapii Sportowej. RISPT (Registered International Sports Physical Therapist) to status fizjoterapeuty sportowego, który spełnił określone standardy (wykształcenie, praktyka kliniczna, doświadczenie w sporcie). To działa jak dodatkowa „pieczątka”, że ktoś nie jest tylko ogólnym fizjoterapeutą, ale specjalistą w sporcie."
+                            "text": "IFSPT (International Federation of Sports Physical Therapy) to Międzynarodowa Federacja Fizjoterapii Sportowej. RISPT (Registered International Sports Physical Therapist) to status fizjoterapeuty sportowego, który spełnił określone standardy (wykształcenie, praktyka kliniczna, doświadczenie w sporcie). To działa jak dodatkowa „pieczątka”, że ktoś nie jest tylko ogólnym fizjoterapeutą, ale specjalistą w sporcie (ifspt.org)."
                         },
                         {
                             "type": "paragraph",
@@ -436,7 +436,18 @@
             "id": "sec-5",
             "number": "5.",
             "title": "Certyfikaty S&C: CSCS i UKSCA/ASCC",
-            "content": [],
+            "content": [
+                {
+                    "type": "infoCard",
+                    "title": "Pakiet kursów 18+ na start",
+                    "body": [
+                        "FMS Level 1 – kurs online self-paced, 599 USD (functionalmovement.com).",
+                        "PRI – Postural Restoration hybrydowo w Polsce, ok. 30 godzin dodatkowych zajęć (Inspirowani Ruchem).",
+                        "MSK USG Moduł 1 w Krakowie – 37 godzin, około 3300 zł (medpower.pl)."
+                    ],
+                    "listStyle": "unordered"
+                }
+            ],
             "subsections": [
                 {
                     "id": "sec-5-1",
@@ -463,7 +474,7 @@
                         },
                         {
                             "type": "paragraph",
-                            "text": "Do egzaminu CSCS możesz podejść z dyplomem licencjackim (lub w ostatnim roku studiów) oraz ważnym CPR/AED. Egzamin zdaje się w ośrodkach Pearson VUE, a opłata wynosi w przybliżeniu 340 USD dla członków NSCA i 475 USD dla pozostałych (powtórka 215 USD)."
+                            "text": "Do egzaminu CSCS możesz podejść z dyplomem licencjackim (lub w ostatnim roku studiów) oraz ważnym CPR/AED. Egzamin zdaje się w ośrodkach Pearson VUE, a opłata wynosi w przybliżeniu 340 USD dla członków NSCA i 475 USD dla pozostałych (powtórka 215 USD). Szczegóły dotyczące zapisów znajdziesz w materiałach NSCA oraz na platformach rejestracyjnych (nsca.com, thenbsca.com)."
                         }
                     ]
                 },
@@ -495,7 +506,7 @@
                         },
                         {
                             "type": "paragraph",
-                            "text": "Ścieżka do tytułu ASCC w UK obejmuje członkostwo w UKSCA, przygotowanie portfolio i Assessment Day (coaching, weightlifting, plyometrics, speed/agility). Sam Assessment Day kosztuje ok. 300 GBP plus składki członkowskie."
+                            "text": "Ścieżka do tytułu ASCC w UK obejmuje członkostwo w UKSCA, przygotowanie portfolio i Assessment Day (coaching, weightlifting, plyometrics, speed/agility). Sam Assessment Day kosztuje ok. 300 GBP plus składki członkowskie (szczegóły: uksca.org.uk, materiały przygotowawcze i omówienia np. onlineexamhelp.com)."
                         }
                     ]
                 },
@@ -506,7 +517,7 @@
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "Functional Movement Screen (FMS) Level 1 w wersji online kosztuje 599 USD i pozwala rozpocząć naukę od razu w trybie self-paced. W Polsce autoryzowany dystrybutor prowadzi także szkolenia stacjonarne oraz sprzedaje zestawy testowe (ok. 1175 zł)."
+                            "text": "Functional Movement Screen (FMS) Level 1 w wersji online kosztuje 599 USD i pozwala rozpocząć naukę od razu w trybie self-paced. W Polsce autoryzowany dystrybutor prowadzi także szkolenia stacjonarne oraz sprzedaje zestawy testowe (ok. 1175 zł). Sprawdź harmonogramy i zasoby na functionalmovement.com oraz treningfunkcjonalny.com.pl."
                         }
                     ]
                 }
@@ -566,7 +577,7 @@
                 },
                 {
                     "type": "paragraph",
-                    "text": "Przy projektowaniu programów prewencji i powrotu do gry warto korzystać z wytycznych FIVB, IOC i przeglądów BJSM dotyczących urazów barku w sportach overhead – to gotowe schematy, które możesz adaptować do pracy z drużynami."
+                    "text": "Przy projektowaniu programów prewencji i powrotu do gry warto korzystać z wytycznych FIVB, IOC i przeglądów BJSM dotyczących urazów barku w sportach overhead – to gotowe schematy, które możesz adaptować do pracy z drużynami (m.in. sportowcydzieciom.pl jako baza materiałów wdrożeniowych)."
                 }
             ]
         },
@@ -636,7 +647,7 @@
                 },
                 {
                     "type": "paragraph",
-                    "text": "Zwiększenie wartości wizyty zapewnia dodanie diagnostyki (MSK USG, testy siły/ROM) oraz specjalistycznych procedur dla barku overhead. Uwzględnij koszty kursów i aparatu USG (zakup lub leasing) przy budowaniu cennika niszowych wizyt."
+                    "text": "Zwiększenie wartości wizyty zapewnia dodanie diagnostyki (MSK USG, testy siły/ROM) oraz specjalistycznych procedur dla barku overhead. Uwzględnij koszty kursów i aparatu USG (zakup lub leasing) przy budowaniu cennika niszowych wizyt – przykładowo moduły MedPower (medpower.pl) czy Roztoczańska Szkoła USG (cdn.uksca.org.uk)."
                 }
             ]
         },
@@ -653,15 +664,15 @@
                     "type": "list",
                     "style": "unordered",
                     "items": [
-                        "Szwecja: licencję („legitimation”) wydaje Socialstyrelsen; oprócz dyplomu wymagane jest uznanie kwalifikacji i biegłość w języku szwedzkim (czasem akceptowany norweski lub duński).",
-                        "Norwegia: autoryzację przyznaje Helsedirektoratet; praktycznie oczekiwany jest język norweski na poziomie co najmniej B2 potwierdzony egzaminami państwowymi.",
-                        "Finlandia: uznawanie kwalifikacji prowadzi Valvira (National Supervisory Authority for Welfare and Health); konieczne jest formalne potwierdzenie znajomości fińskiego lub szwedzkiego.",
-                        "Wielka Brytania: rejestrację prowadzi HCPC. NHS publikuje widełki płacowe (Agenda for Change), a praktyczny próg językowy to IELTS 7.0 ogólnie (min. 6.5 w każdej części) lub odpowiednik OET."
+                        "Szwecja: licencję („legitimation”) wydaje Socialstyrelsen; oprócz dyplomu wymagane jest uznanie kwalifikacji i biegłość w języku szwedzkim (czasem akceptowany norweski lub duński). Więcej o procedurze: socialstyrelsen.se oraz poradniki Inspirowani Ruchem.",
+                        "Norwegia: autoryzację przyznaje Helsedirektoratet; praktycznie oczekiwany jest język norweski na poziomie co najmniej B2 potwierdzony egzaminami państwowymi (informacje: helsedirektoratet.no, healthdata.org).",
+                        "Finlandia: uznawanie kwalifikacji prowadzi Valvira (National Supervisory Authority for Welfare and Health); konieczne jest formalne potwierdzenie znajomości fińskiego lub szwedzkiego (valvira.fi, poradniki Med Coach).",
+                        "Wielka Brytania: rejestrację prowadzi HCPC. NHS publikuje widełki płacowe (Agenda for Change), a praktyczny próg językowy to IELTS 7.0 ogólnie (min. 6.5 w każdej części) lub odpowiednik OET. Wymogi znajdziesz na stronach The HCPC i NHS Employers (SAGE Journals, thehcpc-uk.org)."
                     ]
                 },
                 {
                     "type": "paragraph",
-                    "text": "Nauka języka do poziomu B2 lub C1 to zwykle kilkaset godzin. Szacunkowo przejście z początkującego poziomu do B2 to około 500–600 godzin nauki, a do C1 około 700–800 godzin. Oznacza to, że jeśli ktoś uczy się systematycznie kilka godzin w tygodniu przez kilka lat, to jest w stanie ten poziom osiągnąć."
+                    "text": "Nauka języka do poziomu B2 lub C1 to zwykle kilkaset godzin. Szacunkowo przejście z początkującego poziomu do B2 to około 500–600 godzin nauki, a do C1 około 700–800 godzin. Oznacza to, że jeśli ktoś uczy się systematycznie kilka godzin w tygodniu przez kilka lat, to jest w stanie ten poziom osiągnąć (dane orientacyjne: support.cambridgeenglish.org)."
                 },
                 {
                     "type": "paragraph",
@@ -678,7 +689,7 @@
                 },
                 {
                     "type": "paragraph",
-                    "text": "Plan językowy: zakładając start z B1 angielskiego i A0 norweskiego/szwedzkiego, przejście z B2 do C1 w angielskim to około 200–300 godzin, a z A0 do B2 w języku skandynawskim 500–600 godzin (wg Cambridge). Zaplanuj 6–8 godzin nauki tygodniowo przez 18–24 miesiące oraz moduły intensywne na poziomie B2."
+                    "text": "Plan językowy: zakładając start z B1 angielskiego i A0 norweskiego/szwedzkiego, przejście z B2 do C1 w angielskim to około 200–300 godzin, a z A0 do B2 w języku skandynawskim 500–600 godzin (wg Cambridge). Zaplanuj 6–8 godzin nauki tygodniowo przez 18–24 miesiące oraz moduły intensywne na poziomie B2 (programy 50–600 godzin, online/live)."
                 }
             ]
         },
@@ -689,19 +700,19 @@
             "content": [
                 {
                     "type": "paragraph",
-                    "text": "Już teraz możesz korzystać z analizy wideo 120 fps oraz modeli open-source do preselekcji ryzyka barku i łopatki; barierą jest głównie standaryzacja protokołów, nie dostępność narzędzi."
+                    "text": "Już teraz możesz korzystać z analizy wideo 120 fps oraz modeli open-source do preselekcji ryzyka barku i łopatki; barierą jest głównie standaryzacja protokołów, nie dostępność narzędzi (zob. przykłady opisane na mzps.pl)."
                 },
                 {
                     "type": "paragraph",
-                    "text": "W MSK USG pojawiają się algorytmy wspomagające klasyfikację zmian ścięgnistych i kaletek – traktuj je jako wsparcie decyzji, pamiętając o odpowiedzialności klinicznej."
+                    "text": "W MSK USG pojawiają się algorytmy wspomagające klasyfikację zmian ścięgnistych i kaletek – traktuj je jako wsparcie decyzji, pamiętając o odpowiedzialności klinicznej (case studies publikowane m.in. na platformach branżowych i w grupach na Facebook)."
                 },
                 {
                     "type": "paragraph",
-                    "text": "Wearables i platformy remote-rehab pozwalają monitorować obciążenia oraz przestrzeganie protokołów; przykłady z rynku brytyjskiego pokazują, że takie rozwiązania działają komercyjnie."
+                    "text": "Wearables i platformy remote-rehab pozwalają monitorować obciążenia oraz przestrzeganie protokołów; przykłady z rynku brytyjskiego pokazują, że takie rozwiązania działają komercyjnie (np. platformy CityOn i podobne systemy z algorytmami klinicznymi)."
                 },
                 {
                     "type": "paragraph",
-                    "text": "AI przyspiesza przygotowanie treści eksperckich (przeglądy literatury, szkice protokołów), ale pamiętaj o ryzykach: automatyzacja prostych konsultacji, presja cenowa i konieczność dokumentowania decyzji klinicznych. Strategia anty-kruchej kariery to nisza bark-overhead, twarde kompetencje manualne, integracja USG z testami siły/ROM oraz raporty danych dla klubów."
+                    "text": "AI przyspiesza przygotowanie treści eksperckich (przeglądy literatury, szkice protokołów), ale pamiętaj o ryzykach: automatyzacja prostych konsultacji, presja cenowa i konieczność dokumentowania decyzji klinicznych. Strategia anty-kruchej kariery to nisza bark-overhead, twarde kompetencje manualne, integracja USG z testami siły/ROM oraz raporty danych dla klubów (inspiracje i przeglądy: sportowcydzieciom.pl)."
                 }
             ],
             "subsections": [
@@ -860,11 +871,11 @@
         {
             "id": "sec-10",
             "number": "10.",
-            "title": "Badanie rynku pracy – wnioski dla fizjoterapii sportowej (siatkówka, bark)",
+            "title": "Badanie rynku pracy – odpowiedzi i wnioski dla fizjoterapii sportowej (siatkówka, bark)",
             "content": [
                 {
                     "type": "paragraph",
-                    "text": "Analiza rynku pracy pozwala ocenić stabilność i potencjał finansowy specjalizacji w fizjoterapii sportowej."
+                    "text": "Analiza rynku pracy pozwala ocenić stabilność i potencjał finansowy specjalizacji w fizjoterapii sportowej; poniższe punkty opierają się na jawnych raportach i bazach danych."
                 }
             ],
             "subsections": [
@@ -875,11 +886,11 @@
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "Eurostat monitoruje liczbę fizjoterapeutów na 100 tys. mieszkańców – to twarda metryka podaży, która pokazuje realną konkurencję w danym regionie. Śledź ten wskaźnik razem z danymi GUS przy planowaniu kariery."
+                            "text": "W Unii Europejskiej liczebność fizjoterapeutów na 100 tys. mieszkańców monitoruje Eurostat; widać duże różnice między państwami członkowskimi, co przekłada się na lokalny poziom konkurencji i dostępność świadczeń. Dla planowania kariery śledź wskaźnik „fizjoterapeuci na 100 000” w danym kraju czy regionie, a nie tylko liczbę absolwentów (Eurostat, GUS)."
                         },
                         {
                             "type": "paragraph",
-                            "text": "Popyt napędza ciężar chorób układu ruchu (MSK). Bóle krzyża od lat są główną przyczyną lat przeżytych z niepełnosprawnością (YLD), a WHO klasyfikuje schorzenia narządu ruchu jako jedne z najbardziej obciążających systemy zdrowia."
+                            "text": "Kluczowy popyt generuje ciężar chorób układu ruchu (MSK). Bóle krzyża pozostają globalnie główną przyczyną lat przeżytych z niepełnosprawnością (YLD), a WHO klasyfikuje schorzenia układu ruchu jako jedne z najczęstszych i najbardziej obciążających systemy zdrowia – to wprost tworzy popyt na kompetencje rehabilitacyjne (WHO, Salary Expert, +1)."
                         }
                     ]
                 },
@@ -890,18 +901,18 @@
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "Badania Sedlak & Sedlak (styczeń 2025) wskazują medianę 6480 PLN brutto miesięcznie dla fizjoterapeutów (przedział 5460–7910 PLN). W modelu gabinetowym kluczowe są liczba 60-minutowych wizyt (3–5 dziennie) i koszty stałe (gabinet, podatki, ubezpieczenia, marketing)."
+                            "text": "Badania Sedlak & Sedlak (wynagrodzenia.pl, aktualizacja styczeń 2025) wskazują dla stanowiska „fizjoterapeuta” medianę 6480 PLN brutto miesięcznie (przedział kwartylowy 5460–7910 PLN). W modelach gabinetowych dochód zależy od liczby 60-minutowych wizyt (zwykle 3–5 dziennie) oraz kosztów stałych: gabinetu, podatków, ubezpieczeń i marketingu (Źródła: wynagrodzenia.pl)."
                         }
                     ]
                 },
                 {
                     "id": "sec-10-3",
                     "number": "10.3.",
-                    "title": "Wynagrodzenia – Wielka Brytania (NHS)",
+                    "title": "Wynagrodzenia – Wielka Brytania (ścieżka publiczna NHS)",
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "W NHS obowiązuje siatka Agenda for Change. Fizjoterapeuci zwykle pracują w Band 5 (≈£29 970–£36 483), Band 6 (≈£37 338–£44 962) lub Band 7 (≈£46 148–£52 809) rocznie. Dodatki HCAS podnoszą płace w regionach o wysokich kosztach życia."
+                            "text": "W Wielkiej Brytanii wynagrodzenia w NHS określa siatka Agenda for Change. Fizjoterapeuci zwykle zaczynają w Band 5 (około £29 970–£36 483), awansują do Band 6 (£37 338–£44 962) i Band 7 (£46 148–£52 809) rocznie (stawki 2024/25), a w regionach o wysokich kosztach życia doliczane są dodatki HCAS (Źródła: NHS Employers)."
                         }
                     ]
                 },
@@ -912,22 +923,22 @@
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "Job Market Finland (Statistics Finland) podaje medianę 3001 EUR miesięcznie dla fizjoterapeutów, z rozróżnieniem na sektor publiczny i prywatny. EURES wskazuje grupę „health professionals” jako deficytową w 2024 r."
+                            "text": "Oficjalny portal fińskiego rynku pracy (Job Market Finland/Työmarkkinatori) podaje medianę 3001 EUR miesięcznie dla zawodu „physiotherapist”, z rozbiciem na sektor prywatny i publiczny. EURES potwierdza, że grupa „health professionals” jest w 2024 r. deficytowa w Finlandii (Źródła: Työmarkkinatori, EURES)."
                         }
                     ]
                 },
                 {
                     "id": "sec-10-5",
                     "number": "10.5.",
-                    "title": "Wynagrodzenia – Norwegia i Szwecja",
+                    "title": "Wynagrodzenia – Norwegia i Szwecja (orientacyjnie)",
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "Statistics Norway (SSB) publikuje mediany i średnie zarobków fizjoterapeutów z podziałem na sektor i region – wartości są wyższe niż w Polsce, ale zależą od miejsca zatrudnienia."
+                            "text": "Norweski urząd statystyczny SSB (ssb.no) publikuje tabele wynagrodzeń według zawodów i sektorów, w tym grupę „fysioterapeuter”; mediany są wyższe niż w Polsce, ale zależą od regionu i formy zatrudnienia."
                         },
                         {
                             "type": "paragraph",
-                            "text": "W Szwecji dane SCB (narzędzie Lönesök) pokazują mediany 37–39 tys. SEK brutto miesięcznie dla „fysioterapeut”; agregatory cytujące SCB potwierdzają różnice regionalne i sektorowe."
+                            "text": "W Szwecji bazą odniesienia jest SCB (Statistiska centralbyrån) i narzędzie Lönesök; agregatory cytujące SCB (np. Kango) wskazują mediany około 37–39 tys. SEK brutto miesięcznie, z różnicami regionalnymi i sektorowymi."
                         }
                     ]
                 },
@@ -938,7 +949,7 @@
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "Szwecja: Socialstyrelsen uznaje kwalifikacje i wymaga biegłości językowej. Finlandia: Valvira prowadzi procedurę uznania i wymaga fińskiego lub szwedzkiego. Norwegia: Helsedirektoratet oczekuje norweskiego na poziomie B2. Wielka Brytania: HCPC definiuje wymogi formalne i językowe."
+                            "text": "Szwecja: licencję („legitimation”) wydaje Socialstyrelsen; zawód jest regulowany i wymaga uznania kwalifikacji oraz znajomości języka skandynawskiego (szwedzki/norweski/duński) – omówienia znajdziesz m.in. w bazach ScienceDirect. Finlandia: procedurę uznania prowadzi Valvira (National Supervisory Authority for Welfare and Health), a realia rynku opisuje The Lancet. Norwegia: autoryzację wydaje Helsedirektoratet, a wymagania językowe (minimum B2) opisuje m.in. healthdata.org. Wielka Brytania: rejestracja w HCPC (Health and Care Professions Council) z wymogami językowymi opublikowanymi przez The HCPC i SAGE Journals."
                         }
                     ]
                 },
@@ -949,11 +960,11 @@
                     "content": [
                         {
                             "type": "paragraph",
-                            "text": "Kraków dysponuje aktywnym środowiskiem siatkarskim (np. Hutnik) – umożliwia to współpracę przy screeningach, prewencji urazów barku/kolana skoczka i programach return-to-play."
+                            "text": "Kraków ma aktywne środowisko siatkarskie (np. Hutnik – szkolenie młodzieży i drużyny ligowe), co ułatwia nawiązywanie współpracy przy screeningach, prewencji urazów barku/kolana skoczka i programach return-to-play. Nawet formalny wolontariat czy staż przy drużynach buduje portfolio przypadków i referencje (LonStatistik.se, Statystyka)."
                         },
                         {
                             "type": "paragraph",
-                            "text": "W regionie dostępne są kursy obrazowania i terapii (USG narządu ruchu, moduły OMT). W planie klinicznego użycia zaawansowanego obrazowania warto rozważyć podyplomowy PGCert w MSK Ultrasound w Wielkiej Brytanii."
+                            "text": "W regionie dostępne są kursy obrazowania i terapii (USG narządu ruchu, szkolenia manualne/OMT). Jeśli planujesz kliniczne użycie zaawansowanego obrazowania, rozważ podyplomowy PGCert w MSK Ultrasound w Wielkiej Brytanii – to rynkowy standard w klinikach sportowych (Statystyka, +1)."
                         }
                     ]
                 }
@@ -970,7 +981,7 @@
                 },
                 {
                     "type": "paragraph",
-                    "text": "W etapie licealnym oprócz wolontariatu klubowego warto nawiązać kontakt z krakowskimi klinikami sport-physio (np. Fizjosport na ul. Mogilskiej), gdzie można obserwować oceny funkcjonalne FMS i procesy return-to-play."
+                    "text": "W etapie licealnym oprócz wolontariatu klubowego warto nawiązać kontakt z krakowskimi klinikami sport-physio (np. Fizjosport na ul. Mogilskiej, fizjosport.krakow.pl), gdzie można obserwować oceny funkcjonalne FMS i procesy return-to-play."
                 },
                 {
                     "type": "list",
@@ -1042,7 +1053,7 @@
                         ],
                         [
                             "3. Świadome wejście w analizę ruchu z użyciem AI",
-                            "Zbudować prosty system do analizy ruchu z nagrania wideo, korzystając z bibliotek typu MediaPipe lub OpenPose (to narzędzia sztucznej inteligencji do rozpoznawania pozycji ciała). Nagrywać uderzenia i serwy w siatkówce, a potem sprawdzać kąty w stawach, zakresy ruchu i zmiany przed/po programie ćwiczeń prewencyjnych.",
+                            "Zbudować prosty system do analizy ruchu z nagrania wideo, korzystając z bibliotek typu MediaPipe lub OpenPose (to narzędzia sztucznej inteligencji do rozpoznawania pozycji ciała). Nagrywać uderzenia i serwy w siatkówce, a potem sprawdzać kąty w stawach, zakresy ruchu i zmiany przed/po programie ćwiczeń prewencyjnych. (dobre praktyki dokumentowane m.in. na mzps.pl).",
                             "Dom, klub, boisko, laptop z internetem",
                             "20–30 godzin na start, potem 1–2 godziny tygodniowo na utrwalanie",
                             "Jeden semestr w liceum jako projekt, później ciąg dalszy według uznania",
@@ -1051,7 +1062,7 @@
                         ],
                         [
                             "4. Kurs „screeningu ruchowego” (opcjonalny, ale wartościowy)",
-                            "Ukończyć FMS Level 1 (online, self-paced, 599 USD) lub stacjonarny moduł organizowany przez polskiego dystrybutora. Do praktyki dokupić zestaw testowy (ok. 1175 zł) i stosować go w klubie/klinice.",
+                            "Ukończyć FMS Level 1 (online, self-paced, 599 USD) lub stacjonarny moduł organizowany przez polskiego dystrybutora. Do praktyki dokupić zestaw testowy (ok. 1175 zł) i stosować go w klubie/klinice. (functionalmovement.com, treningfunkcjonalny.com.pl).",
                             "Kurs online lub stacjonarny",
                             "Około 20–25 godzin (wraz z przygotowaniem)",
                             "Jednorazowo, najlepiej w okolicy 17–18 roku życia",
@@ -1087,7 +1098,7 @@
                         ],
                         [
                             "8. Przygotowanie do CSCS (Certified Strength and Conditioning Specialist)",
-                            "Gdy program studiów dojdzie do poziomu 3–4 roku, zacząć przygotowanie do egzaminu CSCS. Oznacza to naukę z zakresu fizjologii wysiłku, biomechaniki, programowania treningu, testowania sportowców. Egzamin można zdawać po uzyskaniu dyplomu lub w trakcie ostatniego roku studiów.",
+                            "Gdy program studiów dojdzie do poziomu 3–4 roku, zacząć przygotowanie do egzaminu CSCS. Oznacza to naukę z zakresu fizjologii wysiłku, biomechaniki, programowania treningu, testowania sportowców. Egzamin można zdawać po uzyskaniu dyplomu lub w trakcie ostatniego roku studiów. (nsca.com, thenbsca.com).",
                             "Nauka własna, materiały NSCA, kursy przygotowawcze online",
                             "80–120 godzin nauki",
                             "6–9 miesięcy przygotowań",
@@ -1114,7 +1125,7 @@
                         ],
                         [
                             "11. Kursy MSK USG (Musculoskeletal Ultrasound) ze szczególnym naciskiem na bark",
-                            "Uczestniczyć w modułach podyplomowych MSK USG, zaczynając od poziomu podstawowego, a potem z naciskiem na bark i stożek rotatorów. Nauczyć się obsługi aparatu, standardowych projekcji oraz sposobu dokumentowania wyników badania.",
+                            "Uczestniczyć w modułach podyplomowych MSK USG, zaczynając od poziomu podstawowego, a potem z naciskiem na bark i stożek rotatorów. Nauczyć się obsługi aparatu, standardowych projekcji oraz sposobu dokumentowania wyników badania. (medpower.pl, cdn.uksca.org.uk).",
                             "Kursy w Polsce (weekendowe, modułowe)",
                             "40–60 godzin na moduł (teoria + praktyka)",
                             "1–2 lata, kilka modułów",
