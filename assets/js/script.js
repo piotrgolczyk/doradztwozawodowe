@@ -6,16 +6,43 @@ document.addEventListener('DOMContentLoaded', () => {
   const nav = document.querySelector('.nav');
   const sectionElements = document.querySelectorAll('.section');
 
-  function toggleTOC() {
-    sidebar.classList.toggle('active');
-    overlay.classList.toggle('active');
+  function setTocState(state) {
+    if (!sidebar) {
+      return;
+    }
+
+    sidebar.classList.toggle('active', state);
+    sidebar.setAttribute('aria-hidden', state ? 'false' : 'true');
+
+    overlay?.classList.toggle('active', state);
+
+    toggleButtons.forEach((button) => {
+      button.setAttribute('aria-expanded', state ? 'true' : 'false');
+    });
   }
+
+  function toggleTOC() {
+    if (!sidebar) {
+      return;
+    }
+
+    const shouldOpen = !sidebar.classList.contains('active');
+    setTocState(shouldOpen);
+  }
+
+  setTocState(false);
 
   toggleButtons.forEach((button) => {
     button.addEventListener('click', toggleTOC);
   });
 
-  overlay?.addEventListener('click', toggleTOC);
+  overlay?.addEventListener('click', () => setTocState(false));
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && sidebar?.classList.contains('active')) {
+      setTocState(false);
+    }
+  });
 
   scrollIndicator?.addEventListener('click', () => {
     nav?.scrollIntoView({ behavior: 'smooth' });
@@ -31,8 +58,8 @@ document.addEventListener('DOMContentLoaded', () => {
         targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
 
-      if (sidebar.classList.contains('active')) {
-        toggleTOC();
+      if (sidebar?.classList.contains('active')) {
+        setTocState(false);
       }
     });
   });

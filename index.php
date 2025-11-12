@@ -171,11 +171,11 @@ function buildToc(array $sections, int $depth = 0): string
 
         <div class="nav">
             <div class="nav-title"><?= htmlspecialchars($data['navTitle'], ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8'); ?></div>
-            <button class="nav-toggle" data-toggle="toc" type="button">Spis treści</button>
+            <button class="nav-toggle" data-toggle="toc" type="button" aria-expanded="false" aria-controls="toc-panel">Spis treści</button>
         </div>
 
         <div class="toc-overlay"></div>
-        <aside class="toc-sidebar">
+        <aside id="toc-panel" class="toc-sidebar" role="dialog" aria-label="Spis treści" aria-hidden="true">
             <div class="toc-header">Spis treści</div>
             <?= buildToc($data['sections']); ?>
         </aside>

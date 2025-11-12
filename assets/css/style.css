@@ -84,9 +84,11 @@ body {
 
 .cover-subtitle {
   font-size: 1.5em;
-  opacity: 0.9;
+  opacity: 0.95;
   margin-bottom: 40px;
   font-weight: 300;
+  color: #e0f2ff;
+  text-shadow: 0 3px 15px rgba(15, 23, 42, 0.35);
 }
 
 .cover-meta {
@@ -167,20 +169,24 @@ body {
 
 .toc-sidebar {
   position: fixed;
-  left: -320px;
-  top: 0;
-  width: 300px;
-  height: 100vh;
+  top: 50%;
+  right: 40px;
+  width: 320px;
+  max-height: 80vh;
   background: #ffffff;
-  box-shadow: 4px 0 20px var(--shadow);
-  padding: 30px;
+  box-shadow: 0 24px 60px rgba(15, 23, 42, 0.18);
+  padding: 28px 30px;
   overflow-y: auto;
-  transition: left 0.3s;
+  transform: translateY(-50%) translateX(120%);
+  opacity: 0;
+  border-radius: 18px;
+  transition: transform 0.3s ease, opacity 0.3s ease;
   z-index: 200;
 }
 
 .toc-sidebar.active {
-  left: 0;
+  transform: translateY(-50%) translateX(0);
+  opacity: 1;
 }
 
 .toc-overlay {
@@ -189,10 +195,10 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(15, 23, 42, 0.4);
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.3s;
+  transition: opacity 0.3s ease;
   z-index: 199;
 }
 
@@ -382,6 +388,14 @@ li {
 
   .nav {
     padding: 12px 20px;
+  }
+
+  .toc-sidebar {
+    right: 16px;
+    left: 16px;
+    width: auto;
+    max-height: 85vh;
+    transform: translateY(-50%) translateX(110%);
   }
 
   .table-container {
